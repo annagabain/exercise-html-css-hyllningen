@@ -12,7 +12,7 @@ body {
     max-width: 80%;
     margin: 0 auto;
     padding: 20px;
-    background-color: #ece1e4;
+    background-color: #e0dede;
 
 }
 
@@ -60,13 +60,20 @@ ul {
 }
 
 ul li {
-    background-color: #ecf0f1;
-    /* background-color: #86a7ab; */
-
+    background-color: #86a7ab;
+    color: #ecf0f1;
     margin: 10px 0;
     padding: 10px;
     border-radius: 5px;
     font-size: 1em;
+}
+
+li h3 {
+    color: #ecf0f1;
+}
+
+li p {
+    color: #ecf0f1;
 }
 
 .gallery {

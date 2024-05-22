@@ -1,3 +1,7 @@
+:point_down: Click the link below for the live view: 
+
+# [Live View](https://htmlpreview.github.io/?https://raw.githubusercontent.com/annagabain/exercise-html-css-hyllningen/main/index.html)
+
 # Hyllning
 
 ## Beskrivning
